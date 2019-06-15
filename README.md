@@ -20,11 +20,6 @@ We used millions of headlines at abc news(Australia Broaccast) data<br>
 our data is too big to upload on github so we left url <br>
 https://drive.google.com/file/d/1_pW7DZKnV1kw0pim3it0lmGEpZmU_d4x/view?usp=sharing <br>
 
-<h2>Preprocessing</h2>
-
-<h2>Visualizing</h2>
-
-<h2></h2>
 
 <h2>Presentation material</h2> <br>
 And our presentation material is available at<br>
